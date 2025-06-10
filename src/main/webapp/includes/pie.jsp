@@ -5,6 +5,7 @@
 			<li>Santutxu Kalea, 24</li>
 			<li>644444444</li>
 			<li>teknobasoa@teknobasoa.com</li>
+			<li>izargorena@izargorena.com</li>
 		</ul>
 
 	</div>
